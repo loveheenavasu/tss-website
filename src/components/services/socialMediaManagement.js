@@ -55,8 +55,7 @@ export default function SocialMediaManagement() {
           <Text className="spacing text-left">
             <div>
               <h2>
-                <span className="accent">social media marketing</span> in
-                sudbury, ON
+                <span className="accent">social media marketing</span>
               </h2>
               <p>
                 We work with our clients to develop and execute a strategic
@@ -70,7 +69,7 @@ export default function SocialMediaManagement() {
             <div>
               <h2>
                 <span className="accent">benefits</span> of{" "}
-                <span className="accent">sudbury social media marketing</span>
+                <span className="accent">sudbury social media marketing</span> for YOUR company
               </h2>
               <p>
                 Grab interest through custom content that makes an impact and

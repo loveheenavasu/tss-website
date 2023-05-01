@@ -35,7 +35,7 @@ export default function Services() {
         link1="Home"
         to2="/services"
         link2="Services"
-        title="Your In-House Marketing and Social Media Agency In Sudbury, ON"
+        title="Your In-House Marketing and Social Media Agency"
         description="Our mission as your Sudbury digital marketing team is to help you more effectively market your business and promote your brand through social media while engaging with your community in a humanized way."
         img={BannerImg}
         background={Background}
@@ -49,9 +49,7 @@ export default function Services() {
           />
           <TopText className="spacing">
             <div>
-              <h1 className="upper">
-                <span className="italics">Meet Your New Marketing Team</span>{" "}
-                <span className="accent">marketing experts</span>
+              <h1 className="upper italics">Meet Your <span className="accent">New Marketing Team</span>{" "}
               </h1>
             </div>
             <div className="spacing">

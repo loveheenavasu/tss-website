@@ -56,7 +56,7 @@ export default function WebDesign() {
           <Text className="spacing text-left">
             <div>
               <h2>
-                <span className="accent">web design & SEO</span> in sudbury, ON
+                <span className="accent">web design & SEO</span> 
               </h2>
               <p>
                 Does your website need a makeover? Are you a new business
@@ -70,7 +70,7 @@ export default function WebDesign() {
             <div>
               <h2>
                 <span className="accent">benefits</span> of{" "}
-                <span className="accent">SEO & web design in Sudbury</span>
+                <span className="accent">SEO & web design in Sudbury</span> for YOUR company
               </h2>
               <p>
                 Struggling to generate traffic and leads? Look no further! We

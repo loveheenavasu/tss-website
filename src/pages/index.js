@@ -65,8 +65,7 @@ export default function index() {
             <p className="upper body--small">your secret marketing weapon</p>
             <h1 className="upper title">
               <span className="italics">your new </span>
-              <span className="accent">marketing team</span>{" "}
-              <span className="italics">in sudbury, ON</span>
+              <span className="accent">marketing team</span>
             </h1>
           </div>
           <div className="text-center spacing">

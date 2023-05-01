@@ -4,7 +4,7 @@ import styled from "styled-components"
 import { Container, GridAuto, Section } from "./layoutComponents"
 
 const Wrapper = styled.div`
-  background: url("../../images/clients-bg-pink.jpg"), rgba(0, 0, 0, 0.3);
+  background: url("../../images/clients-bg-pink-1.jpg"), rgba(0, 0, 0, 0.3);
   background-blend-mode: overlay;
   background-position: center;
   background-size: cover;
