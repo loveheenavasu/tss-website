@@ -60,7 +60,7 @@ export default function HeroGrid(props) {
         <Container className="spacing">
           <h2 className="title caps bold">
             <span className="italics">
-              your <span className="italics accent">new</span> marketing studio
+              <span className="italics accent">your</span> marketing studio
             </span>
           </h2>
           <p className="bold">
