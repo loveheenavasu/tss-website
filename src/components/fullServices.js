@@ -47,10 +47,8 @@ const Item = styled.div`
 `
 
 const ImgStyle = {
-  borderRadius: "1000px",
   height: "200px",
   maxWidth: "200px",
-  border: "1px solid var(--clr-accent)",
 }
 
 export default function FullServices() {
