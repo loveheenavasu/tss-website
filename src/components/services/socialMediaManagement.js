@@ -69,7 +69,8 @@ export default function SocialMediaManagement() {
             <div>
               <h2>
                 <span className="accent">benefits</span> of{" "}
-                <span className="accent">sudbury social media marketing</span> for YOUR company
+                <span className="accent">social media marketing</span> for YOUR
+                company
               </h2>
               <p>
                 Grab interest through custom content that makes an impact and

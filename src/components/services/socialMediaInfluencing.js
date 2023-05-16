@@ -62,7 +62,7 @@ export default function SocialMediaInfluencing() {
             <Text className="spacing text-left">
               <div>
                 <h2>
-                  <span className="accent">social media influencing</span> 
+                  <span className="accent">social media influencing</span>
                 </h2>
                 <p>
                   Influencer marketing is a type of social media marketing that
@@ -77,9 +77,8 @@ export default function SocialMediaInfluencing() {
               <div>
                 <h2>
                   <span className="accent">benefits</span> of{" "}
-                  <span className="accent">
-                    sudbury social media influencing
-                  </span> for YOUR company
+                  <span className="accent">social media influencing</span> for
+                  YOUR company
                 </h2>
                 <p>
                   Studies have shown that consumers want authenticity from the
