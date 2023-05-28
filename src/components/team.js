@@ -213,8 +213,7 @@ daughter, Indiana."
               truly amazing The Social Soulpreneur team is.
               Considering that Mikayla is someone who craves creativity in almost anything that she does, as
               well as someone who loves to help others, this career choice is a dream for her. And she
-              couldn’t be more than
-              kful for how this opportunity worked out. Mikayla went from a confused
+              couldn’t be more thankful for how this opportunity worked out. Mikayla went from a confused
               college student to a full
               -
               time employed social media assistant
