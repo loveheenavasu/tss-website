@@ -1,6 +1,6 @@
 import React from "react"
 import { StaticImage } from "gatsby-plugin-image"
-import { ButtonUnderline } from "../buttons"
+import { AnchorUnderline, ButtonUnderline } from "../buttons"
 import { Container, Section } from "../layoutComponents"
 import styled from "styled-components"
 import SocialMediaFAQ from "../faqs/socialMediaFAQ"
@@ -91,9 +91,9 @@ export default function SocialMediaInfluencing() {
                   influencer marketing.
                 </p>
               </div>
-              <ButtonUnderline to="/contact">
-                contact us &#8594;
-              </ButtonUnderline>
+              <AnchorUnderline href="https://svqqjhih45z.typeform.com/to/J7I2BFZb">
+                Join our Influencer Roster
+              </AnchorUnderline>
             </Text>
             <StaticImage
               className="img-right"
